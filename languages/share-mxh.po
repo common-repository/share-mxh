@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:10
+msgid "Adjust according to your preferences"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:45
+msgid "Border board"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:12
+msgid "Change color"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:34
+msgid "Display location"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:23
+msgid "Effects on hover"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:59
+msgid "Hidden"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:70
+msgid "Hidden Facebook"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:82
+msgid "Hidden Linkedin"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:76
+msgid "Hidden Pinterest"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:85
+msgid "Hidden Reddit"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:79
+msgid "Hidden Telegram"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:88
+msgid "Hidden Tumblr"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:73
+msgid "Hidden Twitter"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:56
+msgid "Hide auto show"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:68
+msgid "Hide social icons"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:57
+msgid "Hide to use the code shortcode below."
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:97
+msgid "Save settings"
+msgstr ""
+
+#. Text in function
+#: share-mxh/inc/sharemxh-admin-page.php:7
+msgid "Share MXH Settings"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:93
+msgid "Social sharing title"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:99
+msgid "Thank you for using our plugin"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:94
+msgid "Title sharing"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:60
+msgid "Using Shortcode, add the position you want to display"
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:61
+msgid "You can use the shortcode below to paste in your post, or code where you want to display the Share MXH."
+msgstr ""
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:99
+msgid "by"
+msgstr ""

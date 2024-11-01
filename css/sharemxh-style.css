@@ -1,0 +1,36 @@
+.share{margin-top:20px;margin-bottom:10px;display:flex;} .share a{margin-right:7px;text-decoration: none;border:none;box-shadow:0px 0px 0px;} 
+.titleshare{margin-top:auto;margin-bottom:auto;font-size:16px;margin-right:10px;font-weight:bold}
+.iconshare{margin-bottom:-5px;}
+.share-f, .share-t, .share-p, .share-tl, .share-in, .share-rd, .share-tb{width:40px;height:40px;padding: 0px;display:inline-block;text-decoration:none !important;box-shadow: 0px 0px 0px !important;}
+.share-f img, .share-t img, .share-p img, .share-tl img, .share-in img, .share-rd img, .share-tb img{width:28px;vertical-align: inherit;margin: 6px !important;box-shadow: 0px 0px 0px !important;}
+/* Blue */
+.share-f.Blue, .share-t.Blue, .share-p.Blue, .share-tl.Blue, .share-in.Blue, .share-rd.Blue, .share-tb.Blue{background:#005AD9;}
+/* Green */
+.share-f.Green, .share-t.Green, .share-p.Green, .share-tl.Green, .share-in.Green, .share-rd.Green, .share-tb.Green{background:#4F9D01;}
+/* Black */
+.share-f.Black, .share-t.Black, .share-p.Black, .share-tl.Black, .share-in.Black, .share-rd.Black, .share-tb.Black{background:#373737;}
+/* Moss */
+.share-f.Moss, .share-t.Moss, .share-p.Moss, .share-tl.Moss, .share-in.Moss, .share-rd.Moss, .share-tb.Moss{background:#7A822C;}
+/* Nature */ 
+.share-f.Nature{background:#38529a;} 
+.share-t.Nature{background:#4da6e9;} 
+.share-p.Nature{background:#e71a21;} 
+.share-tl.Nature{background:#0083c5;} 
+.share-in.Nature{background:#0a63bc;}
+.share-rd.Nature{background:#f74300;}
+.share-tb.Nature{background:#3b576c;}
+/* Dark */ 
+.share-f.Dark, .share-t.Dark, .share-p.Dark, .share-tl.Dark, .share-in.Dark, .share-rd.Dark, .share-tb.Dark{background:#fff;border:1px solid #999;}
+.share-f.Dark img, .share-t.Dark img, .share-p.Dark img, .share-tl.Dark img, .share-in.Dark img, .share-rd.Dark img, .share-tb.Dark img{filter: invert(1);}
+.titleshare.Dark{color:#999}
+/* tron vuong la */
+.share .Round{border-radius:100%;}
+.share .Square{border-radius:2px;}
+.share .Leaves{border-radius:20px 2px 20px 2px;}
+.share .Mushroom{border-radius:20px 20px 20px 2px;}
+.share .light{border-radius:20px 20px 2px 2px;}
+/* hieu ung hover */
+.iconshare.Opacity a:hover{opacity:0.6}
+.iconshare.Zoom a:hover{transform: scale(1.2);}
+.iconshare.Blur a:hover{filter: blur(1px);}
+.iconshare.Shadow a:hover{    filter: drop-shadow(0px 0px 5px #222);}

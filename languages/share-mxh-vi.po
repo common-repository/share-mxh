@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi_VN\n"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:10
+msgid "Adjust according to your preferences"
+msgstr "Điều chỉnh theo sở thích của bạn"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:45
+msgid "Border board"
+msgstr "Kiểu đường viền"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:12
+msgid "Change color"
+msgstr "Thay đổi màu sắc"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:34
+msgid "Display location"
+msgstr "Vị trí hiển thị"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:23
+msgid "Effects on hover"
+msgstr "Hiệu ứng khi di chuột vào"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:59
+msgid "Hidden"
+msgstr "Ẩn"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:70
+msgid "Hidden Facebook"
+msgstr "Ẩn Facebook"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:82
+msgid "Hidden Linkedin"
+msgstr "Ẩn Linkedin"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:76
+msgid "Hidden Pinterest"
+msgstr "Ẩn Pinterest"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:85
+msgid "Hidden Reddit"
+msgstr "Ẩn Reddit"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:79
+msgid "Hidden Telegram"
+msgstr "Ẩn Telegram"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:88
+msgid "Hidden Tumblr"
+msgstr "Ẩn Tumblr"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:73
+msgid "Hidden Twitter"
+msgstr "Ẩn Twitter"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:56
+msgid "Hide auto show"
+msgstr "Ẩn hiển thị biểu tượng tự động "
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:68
+msgid "Hide social icons"
+msgstr "Ẩn biểu tượng không dùng"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:57
+msgid "Hide to use the code shortcode below."
+msgstr "Ẩn đi để sử dụng code shortcode bên dưới"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:97
+msgid "Save settings"
+msgstr "Lưu cài đặt"
+
+#. Text in function
+#: share-mxh/inc/sharemxh-admin-page.php:7
+msgid "Share MXH Settings"
+msgstr "Cài đặt Share MXH"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:93
+msgid "Social sharing title"
+msgstr "Tiêu đề thẻ chia sẻ mạng xã hội"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:99
+msgid "Thank you for using our plugin"
+msgstr "Cảm ơn bạn đã sử dụng plugin này"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:94
+msgid "Title sharing"
+msgstr "Tiêu đề chia sẻ"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:60
+msgid "Using Shortcode, add the position you want to display"
+msgstr "Sử dụng Shortcode, thêm vào vị trí bạn muốn hiển thị"
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:61
+msgid ""
+"You can use the shortcode below to paste in your post, or code where you "
+"want to display the Share MXH."
+msgstr ""
+"Bạn có thể sử dụng shortcode bên dưới để dán vào bài đăng của mình hoặc "
+"mã nơi bạn muốn hiển thị Share MXH."
+
+#. Text in echo
+#: share-mxh/inc/sharemxh-admin-page.php:99
+msgid "by"
+msgstr "bởi"
